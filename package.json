@@ -15,7 +15,7 @@
   "dependencies": {
     "@prisma/client": "^6.19.3",
     "prisma": "^6.19.3",
-    "@prdal/contracts": "github:GustavoQ-Mateus/prdal-careers-contracts#v1.0.0"
+    "@prdal/contracts": "github:GustavoQ-Mateus/prdal-careers-contracts#v1.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.20.5",
